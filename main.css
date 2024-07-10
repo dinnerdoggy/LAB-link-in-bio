@@ -1,3 +1,15 @@
+:root {
+  background-color: black;
+}
+
+.d-grid {
+  background-color: black;
+  width: 60%;
+}
+
 body {
-  background-color: blueviolet;
+  display: flex;
+  --bs-body-bg: black;
+  justify-content: center;
+  align-content: center;
 }
