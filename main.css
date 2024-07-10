@@ -10,6 +10,9 @@
 body {
   display: flex;
   --bs-body-bg: black;
+  --bs-body
   justify-content: center;
   align-content: center;
 }
+
+
