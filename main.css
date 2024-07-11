@@ -7,11 +7,6 @@
   align-content: center;
 }
 
-.filter {
-  filter: blur(8px);
-  -webkit-filter: blur();
-}
-
 #me {
   border-radius: 100%;
   width: 40%;
@@ -27,4 +22,3 @@
 p {
   color: white;
 }
-
